@@ -1,0 +1,7 @@
+{
+  "name": "Storage Server - Development",
+  "mail": {
+    "host": "CONDOR",
+    "port": 1111
+  }
+}

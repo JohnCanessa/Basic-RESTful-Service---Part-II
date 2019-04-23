@@ -1,0 +1,7 @@
+{
+  "name": "Storage Server - Production",
+  "mail": {
+    "host": "EAGLE",
+    "port": 2222
+  }
+}
